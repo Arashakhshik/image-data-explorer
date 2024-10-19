@@ -1,0 +1,6 @@
+streamlit
+azure-data-tables
+azure-storage-blob
+azure-identity
+pandas
+
